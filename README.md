@@ -1,1 +1,3 @@
-# helloworld_sep_2022
+# maven-project
+
+Simple Maven Project
